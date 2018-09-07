@@ -7,6 +7,8 @@ name=n;
 }
 void displayInformation(){
 System.out.println(marks+" "+name);
+System.out.println("/n");
+
 }
 public static void main(string args[]) {
 Student3 S1= new Student3();
