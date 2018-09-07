@@ -17,6 +17,7 @@ S3.insertMarks(100, "Hima");
 
 S1.displayInformation();
 S2.displayInformatiion();
+S3.displayInformation();
 }
 }
 
